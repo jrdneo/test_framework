@@ -2,7 +2,7 @@
 
 This project is a production-style end-to-end (E2E) test automation framework for an eCommerce bookstore, built using [Playwright](https://playwright.dev/) and TypeScript.
 
-It covers realistic scenarios such as browsing, searching for books, adding to basket, and completing a checkout flow. The goal is to demonstrate scalable test practices suitable for real-world QA pipelines.
+It covers realistic scenarios such as browsing, searching for books, adding to basket, and completing a checkout flow. My goal for this project is to demonstrate scalable test practices suitable for real-world QA pipelines that would be used as a software automation tester.
 
 ---
 
