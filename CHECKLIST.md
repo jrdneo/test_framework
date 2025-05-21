@@ -1,7 +1,7 @@
 # Automation Framework Development Checklist
 
 ## 1. Smoke Tests
-- [x] Load homepage and verify title/logo is visible
+- [*] Load homepage and verify title/logo is visible
 - [ ] Verify main menu items are visible (Books, Cart, Login)
 - [ ] Verify search bar is visible and functional
 - [ ] Search for a book and verify search results appear
